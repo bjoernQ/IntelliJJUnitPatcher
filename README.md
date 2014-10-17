@@ -8,6 +8,7 @@ After installation into Android Studio (tested with 0.8.7) it will patch the cla
 
 There is just one thing you should change in your build.gradle file.Add
 
+```
 // always compile tests when assembling the app
 afterEvaluate { project ->
     String variantTestCompileTaskName = 'compileTestDebugJava';
@@ -32,6 +33,7 @@ afterEvaluate { project ->
     };
 
 }
+```
 
 
 to your build file. This way Studio will compile the tests whenever the debug configuration is compiled.
