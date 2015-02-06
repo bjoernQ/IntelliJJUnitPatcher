@@ -1,3 +1,5 @@
+# DEPRICATED AS OF Android Studio 1.1-beta3 / Android Gradle Plugin 1.1.0-rc1 - WON'T WORK ANYMORE AND YOU SHOULD USE THE NOW BUILT IN FUNCTIONALITY
+
 # JUnitPatcher for Android Studio
 
 This is a very simple plugin which should enable the execution of JUnit tests in the JVM from inside Android Studio.
