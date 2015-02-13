@@ -1,4 +1,4 @@
-# DEPRICATED AS OF Android Studio 1.1-beta3 / Android Gradle Plugin 1.1.0-rc1 - WON'T WORK ANYMORE AND YOU SHOULD USE THE NOW BUILT IN FUNCTIONALITY
+# DEPRECATED AS OF Android Studio 1.1-beta3 / Android Gradle Plugin 1.1.0-rc1 - WON'T WORK ANYMORE AND YOU SHOULD USE THE NOW BUILT IN FUNCTIONALITY
 
 # JUnitPatcher for Android Studio
 
